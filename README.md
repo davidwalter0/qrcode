@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sec51/qrcode.svg?branch=master)](https://travis-ci.org/sec51/qrcode)
+[![Build Status](https://travis-ci.org/davidwalter0/qrcode.svg?branch=master)](https://travis-ci.org/davidwalter0/qrcode)
 
 ### Fork of rsc qr codebase
 
