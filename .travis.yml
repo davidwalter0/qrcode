@@ -5,5 +5,9 @@ go:
   - 1.8.x
   - master
 
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install libqrencode-dev
+
 install:
   - go get "github.com/davidwalter0/gf256"  
